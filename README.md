@@ -7,7 +7,7 @@ Commercial project for Cultr Records includes website and html mailing.
 * mjml
 
 ## What I'm learned? 
-*MJML - Email Framework.
+* MJML - Email Framework.
 * Working and discussion with client.
 
 ## Live 
