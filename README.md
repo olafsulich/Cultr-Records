@@ -1,16 +1,23 @@
-# Description 
+
+
+## Project title
 Commercial project for Cultr Records includes website and html mailing.
+ 
+## Screenshots
+![Design](https://i.ibb.co/qCF7Q98/Pic.png)
 
-## Technologies 
-* HTML5
-* Css
-* mjml
+## Tech/framework used
+- HTML5
+- SCSS
+- mjml
 
-## What I'm learned? 
-* MJML - Email Framework.
-* Working and discussion with client.
+## Credits
+https://mjml.io/
 
 ## Live 
  https://olafsulich.github.io/Cultr-Records/
 
-![Design](https://i.ibb.co/qCF7Q98/Pic.png)
+## License
+Under license (MIT, Apache etc)
+
+MIT © [Olaf Sulich]()
