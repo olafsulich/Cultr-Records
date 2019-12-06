@@ -1,23 +1,23 @@
 
 
-## Project title
+## Project title 🚀
 Commercial project for Cultr Records includes website and html mailing.
  
-## Screenshots
+## Screenshots 📺
 ![Design](https://i.ibb.co/qCF7Q98/Pic.png)
 
-## Tech/framework used
-- HTML5
+## Tech/framework used 🔧
+- HTML5 
 - SCSS
 - mjml
 
-## Credits
+## Credits  👏
 https://mjml.io/
 
-## Live 
+## Live 	💻
  https://olafsulich.github.io/Cultr-Records/
 
-## License
+## License 🔱
 Under license (MIT, Apache etc)
 
 MIT © [Olaf Sulich]()
